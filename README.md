@@ -2,7 +2,7 @@
 
 > A flutter app to help every muslim. <br />
 
-]![d3aaa042-b953-4810-b751-d151e1ec58bc](https://github.com/Abdallah-Essam-Abdallah/muslim_app/assets/121309175/7a54c65c-4818-4565-a95e-694ef62cb68d)
+![d3aaa042-b953-4810-b751-d151e1ec58bc](https://github.com/Abdallah-Essam-Abdallah/muslim_app/assets/121309175/7a54c65c-4818-4565-a95e-694ef62cb68d)
 
 
 
